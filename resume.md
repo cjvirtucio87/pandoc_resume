@@ -1,100 +1,89 @@
-Johnny Coder
+Christopher John Virtucio
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Experienced with open-source stacks (ReactJS, AngularJS, Golang, Ruby on
+>  Rails)
+>  and enterprise stacks (Spring MVC, OracleDB, .NET, OSGi)
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2005-2009
+:   **B.A., Bachelor of Arts; Humanities 
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    *Major: Political Economy*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Vencore, Inc.**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+(2017 to present)
 
-* First item
+* supported a federal government project with Spring, OSGi, the Portlet Spec, and Perl
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* administered Tableau servers using Powershell, Perl, and Golang
 
-**That Other Job You Had**
+* implemented ETL jobs with C# 
 
-Also with a short description.
+* created a mock environment for a data-transfer service over ssh using Docker
+  and BASH
+
+* maintained an SSH Wrapper written in C#
+
+* wrote a Golang REST Client for interacting with Tableau servers and wrapping a
+  Perl Infrastructure as Code tool
+
+* wrote a Golang automation tool for archiving and versioning stored procedures
+
+* wrote a Golang automation tool for adding user accounts to a MySQL database
+
+**Pragmatics, Inc.**
+
+(2016 to 2017)
+
+* designed and implemented the architecture for the FalconPoint user interface using ReactJS
+
+* developed multiple features of the LoanDox application for the FDIC, most especially the resumable upload service leveraging Spring, AngularJS, and Amazon S3
+
+* developed a RESTful API for the Trademark Next Generation (TMNG) app's admin page
+
+* refactored core elements of TMNG's SynchronizerResource service
+
+* wrote a data diffing service for TMNG
+
+* wrote an integration test for TMNG's SynchronizerResource service
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+tus-spring-boot
+:   Spring-based implementation of open-source upload service 
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * link: https://github.com/cjvirtucio87/tus-spring-boot
+    * back-end API built using Spring-boot and Java 8
+    * dependency management using Maven
+    * client-side application built using React-Redux
+    * containerized using Docker
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Java**
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Golang**
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **C#**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **Javascript** 
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+:   **SQL** 
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <cjv287@gmail.com> • (650) 440-2812 • https://cjvirtucio.co
+> McLean, VA 
