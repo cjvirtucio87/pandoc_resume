@@ -36,3 +36,19 @@ sudo dnf install pandoc texlive-collection-context
 ```bash
 sudo pacman -S pandoc texlive-core
 ```
+
+#### OSX
+```bash
+brew install pandoc
+mkdir $HOME/context
+cd $HOME/context
+rsync -av rsync://contextgarden.net/minimals/setup/first-setup.sh .
+sh ./first-setup.sh --modules=all --engine=luatex
+```
+
+### Troubleshooting
+Some users have reported problems where their system does not properly find the ConTeXt
+executable, leading to errors like `Cannot find context.lua` or similar. It has been found
+that running `mtxrun --generate`, (as suggested at
+https://tex.stackexchange.com/questions/53892/texlive-2011-context-problem), can fix the
+issue.
