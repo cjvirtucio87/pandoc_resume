@@ -3,9 +3,7 @@ Christopher John Virtucio
 
 ----
 
->  Experienced with open-source stacks (ReactJS, AngularJS, Golang, Ruby on
->  Rails)
->  and enterprise stacks (Spring MVC, OracleDB, .NET, OSGi)
+A software engineer with Java 8, Spring Boot, ReactJS, docker, packer and ansible experience.
 
 ----
 
@@ -25,7 +23,7 @@ Experience
 
 (2017 to present)
 
-* supported a federal government project with Spring, OSGi, the Portlet Spec, and Perl
+* supported a federal government project with Java 8, Spring, OSGi, the Portlet Spec, and Perl
 
 * administered Tableau servers using Powershell, Perl, and Golang
 
@@ -73,7 +71,7 @@ tus-spring-boot
 
 
 Programming Languages
-:   **Java**
+:   **Java 8**
 
 :   **Golang**
 
@@ -82,6 +80,16 @@ Programming Languages
 :   **Javascript** 
 
 :   **SQL** 
+
+:   **BASH** 
+
+
+DevOps
+:   **Docker**
+
+:   **Packer**
+
+:   **Ansible**
 
 ----
 
